@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ansible Automation Platform (AAP) Learning Journey
 
 ## Overview
@@ -61,3 +62,7 @@ AAP extends Ansible by adding:
 ```bash
 ansible all -m ping
 ```
+=======
+# Ansible-Automation-Platform
+Learning repository for Red Hat Ansible Automation Platform (AAP), covering Playbooks, Roles, Collections, Automation Controller, Event-Driven Ansible (EDA), Automation Hub, CI/CD, and enterprise automation best practices
+>>>>>>> b6ec39c13a4afbd343990696bf0c7508576fd8c5
